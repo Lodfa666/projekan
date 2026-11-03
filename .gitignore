@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+venv/
+.env
+
+# Dataset berukuran besar
+dataset_project/original/
+dataset_project/processed/
+dataset_project/foto_asli/
+dataset_project/fitur_dataset.csv
+dataset_project/split_manifest.csv
+test_app.py
